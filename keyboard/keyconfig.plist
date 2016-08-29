@@ -1,61 +1,61 @@
 {
     // flight controls
-    key_roll_left                 = "k"
-    key_roll_right                = "j"
-    key_pitch_forward             = "f"
-    key_pitch_back                = "e"
-    key_yaw_left                  = "u"
-    key_yaw_right                 = "i"
-    key_increase_speed            = ";"
-    key_decrease_speed            = "l"
-    key_inject_fuel               = "t"
-    key_ident_system              = "o"
-    key_launch_escapepod          = 27
-    key_jumpdrive                 = "r"
-    key_hyperspace                = "h"
-    key_galactic_hyperspace       = "g"
-    key_docking_clearance_request = "V"
-    key_autopilot                 = "c"
-    key_autodock                  = "C"
+    key_roll_left                 = "j";
+    key_roll_right                = "k";
+    key_pitch_forward             = "e";
+    key_pitch_back                = "f";
+    key_yaw_left                  = "u";
+    key_yaw_right                 = "i";
+    key_increase_speed            = ";";
+    key_decrease_speed            = "l";
+    key_inject_fuel               = "t";
+    key_ident_system              = "o";
+    key_launch_escapepod          = 27;
+    key_jumpdrive                 = "r";
+    key_hyperspace                = "h";
+    key_galactic_hyperspace       = "g";
+    key_docking_clearance_request = "V";
+    key_autopilot                 = "c";
+    key_autodock                  = "C";
 
     // combat controls
-    key_weapons_online_toggle     = "a"    // possible q
-    key_fire_lasers               = "w"
-    key_target_missile            = "n"
-    key_untarget_missile          = "."
-    key_launch_missile            = "m"
-    key_next_missile              = ","
-    key_next_target               = "/"
-    key_previous_target           = "?"
-    key_ecm                       = "y"
-    key_target_incoming_missile   = "'"
-    key_energy_bomb               = "\t"
-    key_cloaking_device           = "0"
+    key_weapons_online_toggle     = "a";    // possible q
+    key_fire_lasers               = "w";
+    key_target_missile            = "n";
+    key_untarget_missile          = ".";
+    key_launch_missile            = "m";
+    key_next_missile              = ",";
+    key_next_target               = "/";
+    key_previous_target           = "?";
+    key_ecm                       = "y";
+    key_target_incoming_missile   = "'";
+    key_energy_bomb               = "\t";
+    key_cloaking_device           = "0";
 
     // in-flight controls
-    key_dump_cargo                = "s"
-    key_rotate_cargo              = "d"
-    key_prime_equipment           = ""
-    key_activate_equipment        = ""
-    key_mode_equipment            = ""
-    key_scanner_zoom              = "z"
-    key_scanner_unzoom            = "Z"
-    key_next_compass_mode         = "x"
-    key_prev_compass_mode         = "X"
-    key_comms_log                 = "`"
+    key_dump_cargo                = "s";
+    key_rotate_cargo              = "d";
+    key_prime_equipment           = "";
+    key_activate_equipment        = "";
+    key_mode_equipment            = "";
+    key_scanner_zoom              = "z";
+    key_scanner_unzoom            = "Z";
+    key_next_compass_mode         = "x";
+    key_prev_compass_mode         = "X";
+    key_comms_log                 = "`";
 
     // map controls
-    key_advanced_nav_array        = "^"
-    key_map_home                  = "h"
-    key_map_info                  = "i"
+    key_advanced_nav_array        = "^";
+    key_map_home                  = "h";
+    key_map_info                  = "i";
 
     // misc. control
-    key_docking_music             = "w"
-    key_custom_view               = "]"
-    key_snapshot                  = "*"
-    key_hud_toggle                = "&"
-    key_pausebutton               = "~"
-    key_mouse_control             = "M"
-    key_show_fps                  = "F"
-    key_dump_target_state         = "H"
+    key_docking_music             = "w";
+    key_custom_view               = "]";
+    key_snapshot                  = "*";
+    key_hud_toggle                = "&";
+    key_pausebutton               = "~";
+    key_mouse_control             = "M";
+    key_show_fps                  = "F";
+    key_dump_target_state         = "H";
 }
