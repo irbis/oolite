@@ -1,9 +1,9 @@
 {
     // flight controls
-    key_roll_left                 = "j"
-    key_roll_right                = "k"
-    key_pitch_forward             = "e"
-    key_pitch_back                = "f"
+    key_roll_left                 = "k"
+    key_roll_right                = "j"
+    key_pitch_forward             = "f"
+    key_pitch_back                = "e"
     key_yaw_left                  = "u"
     key_yaw_right                 = "i"
     key_increase_speed            = ";"
