@@ -1,69 +1,61 @@
 {
-	key_roll_left               = "j";
-	key_roll_right              = "k";
-	key_pitch_forward           = "e";
-	key_pitch_back              = "f";
-	key_yaw_left                = "u";      
-	key_yaw_right               = "i";      
-	
-	key_increase_speed          = ";";
-	key_decrease_speed          = "l";
-	key_inject_fuel             = "b";
+    // flight controls
+    key_roll_left                 = "j"
+    key_roll_right                = "k"
+    key_pitch_forward             = "e"
+    key_pitch_back                = "f"
+    key_yaw_left                  = "u"
+    key_yaw_right                 = "i"
+    key_increase_speed            = ";"
+    key_decrease_speed            = "l"
+    key_inject_fuel               = "t"
+    key_ident_system              = "o"
+    key_launch_escapepod          = 27
+    key_jumpdrive                 = "r"
+    key_hyperspace                = "h"
+    key_galactic_hyperspace       = "g"
+    key_docking_clearance_request = "V"
+    key_autopilot                 = "c"
+    key_autodock                  = "C"
 
-	key_fire_lasers				= "w";
-	key_weapons_online_toggle	= "_";
-	key_launch_missile			= "m";
-	key_next_missile			= ",";
-	key_ecm						= "y";
+    // combat controls
+    key_weapons_online_toggle     = "a"    // possible q
+    key_fire_lasers               = "w"
+    key_target_missile            = "n"
+    key_untarget_missile          = "."
+    key_launch_missile            = "m"
+    key_next_missile              = ","
+    key_next_target               = "/"
+    key_previous_target           = "?"
+    key_ecm                       = "y"
+    key_target_incoming_missile   = "'"
+    key_energy_bomb               = "\t"
+    key_cloaking_device           = "0"
 
-	key_prime_equipment			= "N";
-	key_activate_equipment		= "n";
+    // in-flight controls
+    key_dump_cargo                = "s"
+    key_rotate_cargo              = "d"
+    key_prime_equipment           = ""
+    key_activate_equipment        = ""
+    key_mode_equipment            = ""
+    key_scanner_zoom              = "z"
+    key_scanner_unzoom            = "Z"
+    key_next_compass_mode         = "x"
+    key_prev_compass_mode         = "X"
+    key_comms_log                 = "`"
 
-	key_target_incoming_missile	= "T";
-	key_target_missile			= "t";
-	key_untarget_missile		= ".";
-	key_ident_system			= "r";
+    // map controls
+    key_advanced_nav_array        = "^"
+    key_map_home                  = "h"
+    key_map_info                  = "i"
 
-	key_scanner_zoom			= "z";
-	key_scanner_unzoom			= "Z";
-
-	key_launch_escapepod		= 27;		// escape
-	key_energy_bomb				= "\t";		// tab
-
-	key_galactic_hyperspace		= "g";
-	key_hyperspace				= "h";
-	key_jumpdrive				= "r";
-
-	key_dump_cargo				= "d";
-	key_rotate_cargo			= "R";
-
-	key_autopilot				= "c";
-	key_autodock				= "C";
-	key_docking_clearance_request	= "L";
-
-	key_snapshot				= "*";
-	key_docking_music			= "s";
-
-	key_advanced_nav_array		= "^";
-	key_map_home				= 302;		// Home
-	key_map_info				= "i";
-
-	key_pausebutton				= "p";
-	key_show_fps				= "F";
-	key_mouse_control			= "M";
-	key_hud_toggle				= "o";
-
-	key_comms_log				= "`";
-	key_next_compass_mode		= "\\";
-
-	key_cloaking_device			= "0";
-
-	key_contract_info			= "?";
-
-	key_next_target				= "+";
-	key_previous_target			= "-";
-
-	key_custom_view				= "v";
-
-	key_dump_target_state		= "H";
+    // misc. control
+    key_docking_music             = "w"
+    key_custom_view               = "]"
+    key_snapshot                  = "*"
+    key_hud_toggle                = "&"
+    key_pausebutton               = "~"
+    key_mouse_control             = "M"
+    key_show_fps                  = "F"
+    key_dump_target_state         = "H"
 }
