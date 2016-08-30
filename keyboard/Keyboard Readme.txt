@@ -25,17 +25,17 @@ Escape Capsule:      (Escape) - Press twice to launch
 Docking Controls:
 Docking Computer On: c
 Fast Dock:           C  (Shift-c)
-Docking Permission:  L  (Shift-l)
+Docking Permission:  V  (Shift-V)
 
 Weapon Controls:
-Fire Lasers:         a
-Weapons Toggle:      _  (Underscore)
-Targetting:          T  (Shift-t)
-Arm Missile:	     t
-Unarm Missile:	     u
-Next Missile:        y
+Fire Lasers:         w
+Weapons Toggle:      a
+Targetting:          n
+Arm Missile:	     m
+Unarm Missile:	     .
+Next Missile:        ,
 Energy Bomb:         (Tab)
-ECM:                 e
+ECM:                 y
 
 IFF Scanner:
 Zoom In:             z   - Repeat to step through Zoom levels, up to -5
@@ -46,7 +46,7 @@ Forward View:        1  or F1
 Rear View:           2  or F2
 Left View:           3  or F3
 Right View:          4  or F4
-External View:       v  - Repeat to step through External Views
+External View:       ]  - Repeat to step through External Views
 
 Pilot Interface:
 Manifest Screen:     5  or F5
